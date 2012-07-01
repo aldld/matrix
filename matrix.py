@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # Python matrix library
 
+# This software is licensed under the MIT License. See README for more information.
+
 class Matrix:
     """ Rows and columns of the matrix """
     rows = 0
